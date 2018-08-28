@@ -1,4 +1,5 @@
-print{Hello World!  Written by Justin"}
+print{"Hello World!  Written by Justin"}
+print("This is my first python code")
 
 x=int(input('Enter an integer: '))
 if x%2 ==0;
